@@ -1,1 +1,1 @@
-# my-medusa
+# medusa
